@@ -1,4 +1,4 @@
-name: MC-NewHorizon-Plugin-Crons
+name: Crons
 version: '1.0'
 main: fr.rudy.crons.Main
 api-version: '1.21'

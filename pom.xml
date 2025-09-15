@@ -9,7 +9,7 @@
     <version>1.0</version>
     <packaging>jar</packaging>
 
-    <name>MC-NewHorizon-Plugin-Crons</name>
+    <name>Crons</name>
 
     <properties>
         <java.version>21</java.version>
