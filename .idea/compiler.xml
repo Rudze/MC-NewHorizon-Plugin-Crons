@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Crons" />
+        <module name="MC-NewHorizon-Plugin-Crons" />
       </profile>
     </annotationProcessing>
   </component>
